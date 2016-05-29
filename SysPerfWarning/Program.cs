@@ -59,7 +59,7 @@ namespace SysPerfWarning
 
             #region while true loop
             //set MP3 counter
-            int Mp3Counter = 1700;
+            int Mp3Counter = 1790;
 
             //HoureMessage
             int HoureMessageCounter = 3600;
